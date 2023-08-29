@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-Aaron was here
+Aaron was here. And he edited this file in VS Code.
 
 ## 🤓 Course overview and learning outcomes 
 
